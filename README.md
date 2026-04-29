@@ -1,3 +1,4 @@
+# Bank Account Application Fraud Detection Project
 # This is an analysis for bank account application fraud. The dataset that is used contains about one million applications and 32 variables. 
 # There are multiple models that are tested to see which one is optimal to detect the most fraudulent applications for a bank.
 # It includes visuals and statistics for all the models that are analyzed. 
